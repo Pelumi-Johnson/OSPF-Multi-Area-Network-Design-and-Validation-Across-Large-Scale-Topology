@@ -60,7 +60,7 @@ ping 192.168.2.10
 Result successful confirming full OSPF adjacency and routing table propagation across all routers
 
 Video Placeholder Successful End to End Ping
-![OSPF Ping Success](./videos/ospf-ping-success.mp4)
+![OSPF Ping Success](https://github.com/Pelumi-Johnson/OSPF-Multi-Area-Network-Design-and-Validation-Across-Large-Scale-Topology/blob/main/ping%20successful.gif)
 
 ---
 
