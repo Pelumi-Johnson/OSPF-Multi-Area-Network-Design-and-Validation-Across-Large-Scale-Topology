@@ -125,7 +125,8 @@ ping 192.168.2.10
 Result request timed out confirming routing failure
 
 OSPF Failure
-![]()
+
+![OSPF Failure](https://github.com/Pelumi-Johnson/OSPF-Multi-Area-Network-Design-and-Validation-Across-Large-Scale-Topology/blob/main/Screenshot%202026-05-04%20012425.png)
 ![OSPF Failure](https://github.com/Pelumi-Johnson/OSPF-Multi-Area-Network-Design-and-Validation-Across-Large-Scale-Topology/blob/main/Screenshot%202026-05-03%20234418.png)
 
 ---
