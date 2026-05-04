@@ -159,6 +159,7 @@ ping 192.168.2.10
 Result successful confirming proper inter area routing through backbone
 
 Video Placeholder OSPF Fix and Recovery
+![OSPF Fix](https://github.com/Pelumi-Johnson/OSPF-Multi-Area-Network-Design-and-Validation-Across-Large-Scale-Topology/blob/main/Screenshot%202026-05-04%20013127.png)
 ![OSPF Fix](https://github.com/Pelumi-Johnson/OSPF-Multi-Area-Network-Design-and-Validation-Across-Large-Scale-Topology/blob/main/Area1-0-2.gif)
 
 ---
