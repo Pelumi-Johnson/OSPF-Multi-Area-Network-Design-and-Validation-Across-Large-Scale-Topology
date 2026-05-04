@@ -46,8 +46,8 @@ network 200.1.x.x 0.0.0.255 area 0
 ```
 Applied appropriate network statements per interface on each router
 
-Video Placeholder Initial OSPF Configuration
-![OSPF Area0](./videos/ospf-area0.mp4)
+Initial OSPF Configuration
+![OSPF Area0](https://github.com/Pelumi-Johnson/OSPF-Multi-Area-Network-Design-and-Validation-Across-Large-Scale-Topology/blob/main/ospf%20lab.gif)
 
 ---
 
