@@ -93,9 +93,11 @@ Modified topology to introduce multiple OSPF areas
 ```
 Router0 interfaces assigned to Area 1
 Router1 interface facing Router0 assigned to Area 1
+```
+![Router0 interfaces](https://github.com/Pelumi-Johnson/OSPF-Multi-Area-Network-Design-and-Validation-Across-Large-Scale-Topology/blob/main/Screenshot%202026-05-03%20235256.png)
 
-Remaining interfaces of Router1 remained in Area 0 making Router1 an Area Border Router
-
+Second interface of Router1 remained in Area 0 making Router1 an Area Border Router
+```
 Router16 interfaces assigned to Area 2
 Router15 interface facing Router16 assigned to Area 2
 
