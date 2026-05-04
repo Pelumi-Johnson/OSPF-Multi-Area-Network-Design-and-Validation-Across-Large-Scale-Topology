@@ -103,11 +103,10 @@ Router16 interfaces assigned to Area 2
 Router15 interface facing Router16 assigned to Area 2
 ```
 ![Router16 interfaces](https://github.com/Pelumi-Johnson/OSPF-Multi-Area-Network-Design-and-Validation-Across-Large-Scale-Topology/blob/main/Screenshot%202026-05-03%20235447.png)
-![Router15 interface](https://github.com/Pelumi-Johnson/OSPF-Multi-Area-Network-Design-and-Validation-Across-Large-Scale-Topology/blob/main/Screenshot%202026-05-03%20235447.png)
+![Router15 interface](https://github.com/Pelumi-Johnson/OSPF-Multi-Area-Network-Design-and-Validation-Across-Large-Scale-Topology/blob/main/Screenshot%202026-05-03%20235544.png)
+
 Remaining interfaces of Router15 remained in Area 0 making Router15 an Area Border Router
 
-Video Placeholder Multi Area Configuration
-![OSPF Multi Area](./videos/ospf-multi-area.mp4)
 
 ---
 
