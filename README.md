@@ -78,8 +78,10 @@ show ip ospf neighbor
 Observation
 Neighbor relationships established across connected routers confirming full OSPF adjacency
 
-Video Placeholder Routing Table and Neighbor Verification
+Routing Table and Neighbor Verification
 ![OSPF Verification](./videos/ospf-verification.mp4)
+
+![OSPF Verification](https://github.com/Pelumi-Johnson/OSPF-Multi-Area-Network-Design-and-Validation-Across-Large-Scale-Topology/blob/main/Screenshot%202026-05-03%20223822.png)
 
 ---
 
