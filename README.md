@@ -30,7 +30,7 @@ Logical Flow
 PC0 to Router0 through OSPF domain across all routers to Router16 to PC1
 
 Video Placeholder Full Topology and OSPF Convergence
-![OSPF Full Topology](./videos/ospf-full-topology.mp4)
+![OSPF Full Topology](https://github.com/Pelumi-Johnson/OSPF-Multi-Area-Network-Design-and-Validation-Across-Large-Scale-Topology/blob/main/Screenshot%202026-05-04%20002509.png)
 
 ---
 
