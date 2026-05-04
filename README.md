@@ -95,6 +95,7 @@ Router0 interfaces assigned to Area 1
 Router1 interface facing Router0 assigned to Area 1
 ```
 ![Router0 interfaces](https://github.com/Pelumi-Johnson/OSPF-Multi-Area-Network-Design-and-Validation-Across-Large-Scale-Topology/blob/main/Screenshot%202026-05-03%20235256.png)
+![Router1 interface](https://github.com/Pelumi-Johnson/OSPF-Multi-Area-Network-Design-and-Validation-Across-Large-Scale-Topology/blob/main/Screenshot%202026-05-03%20235415.png)
 
 Second interface of Router1 remained in Area 0 making Router1 an Area Border Router
 ```
